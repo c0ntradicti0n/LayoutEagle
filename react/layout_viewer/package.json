@@ -18,7 +18,7 @@
     "react-loadable": "^5.5.0",
     "react-pro-sidebar": "^0.6.0",
     "react-three-fiber": "4.2.12",
-    "three": "0.118.3",
+    "three": "0.125.0",
     "three-spritetext": "^1.5.2"
   },
   "devDependencies": {

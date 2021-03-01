@@ -2609,8 +2609,9 @@ debug@^4.1.0:
   dependencies:
     ms "^2.1.1"
 
-"debug@github:ngokevin/debug#noTimestamp":
+debug@ngokevin/debug#noTimestamp:
   version "2.2.0"
+  uid ef5f8e66d49ce8bc64c6f282c15f8b7164409e3a
   resolved "https://codeload.github.com/ngokevin/debug/tar.gz/ef5f8e66d49ce8bc64c6f282c15f8b7164409e3a"
 
 decode-uri-component@^0.2.0:
@@ -2678,8 +2679,9 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
-"document-register-element@github:dmarcos/document-register-element#8ccc532b7f3744be954574caf3072a5fd260ca90":
+document-register-element@dmarcos/document-register-element#8ccc532b7f3744be954574caf3072a5fd260ca90:
   version "0.5.4"
+  uid "8ccc532b7f3744be954574caf3072a5fd260ca90"
   resolved "https://codeload.github.com/dmarcos/document-register-element/tar.gz/8ccc532b7f3744be954574caf3072a5fd260ca90"
 
 dom-serializer@0, dom-serializer@^0.2.1:
@@ -6078,8 +6080,9 @@ terser@^4.1.2:
     source-map "~0.6.1"
     source-map-support "~0.5.12"
 
-"three-bmfont-text@github:dmarcos/three-bmfont-text#1babdf8507c731a18f8af3b807292e2b9740955e":
+three-bmfont-text@dmarcos/three-bmfont-text#1babdf8507c731a18f8af3b807292e2b9740955e:
   version "2.3.0"
+  uid "1babdf8507c731a18f8af3b807292e2b9740955e"
   resolved "https://codeload.github.com/dmarcos/three-bmfont-text/tar.gz/1babdf8507c731a18f8af3b807292e2b9740955e"
   dependencies:
     array-shuffle "^1.0.1"
@@ -6132,10 +6135,10 @@ three-spritetext@^1.5.2:
   resolved "https://registry.yarnpkg.com/three-spritetext/-/three-spritetext-1.6.0.tgz#44fd2dc02e5ce549711d5a2a674a8c198e17d4c5"
   integrity sha512-yC8f4ioGoX75UMOm84Nzq5hg+8bE3YOo2eYphdMX3Auas0aBbgzhc7mF/3xr0/dco0X2uYG/9GfuCnuX7RZWdA==
 
-three@0.118.3:
-  version "0.118.3"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.118.3.tgz#c0bf8c10a68155478f12f4ccac2ff979526a4a0a"
-  integrity sha512-ijECXrNzDkHieoeh2H69kgawTGH8DiamhR4uBN8jEM7VHSKvfTdEvOoHsA8Aq7dh7PHAxhlqBsN5arBI3KixSw==
+three@0.125.0:
+  version "0.125.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.125.0.tgz#19e922b9dc51ad0b706893aeee888de68e99850a"
+  integrity sha512-qL36qUGsPQ/Ofo/RZdXwHwM7A8wzUSAIyawtjIebJSPvounUQeneSqxI0aBY2iwKpseGy+RUtj3C5f/z4poyXw==
 
 three@^0.125.1:
   version "0.125.2"
